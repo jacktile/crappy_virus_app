@@ -5,3 +5,6 @@ When this app runs, it first displays a single window with the option to click "
 Python 3.6+
 Tkinter [included]
 (runs on all platforms)
+
+# Other stuff
+This script was made for fathers day, so the naming scheme within the script matches the occasion.
